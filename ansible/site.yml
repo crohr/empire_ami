@@ -5,6 +5,7 @@
     - swap
     - docker
     - aws_ecs
+    - logspout
 - hosts: controller
   connection: local
   roles:
@@ -19,3 +20,4 @@
     - docker
     - aws_ecs
     - empire
+    - logspout
