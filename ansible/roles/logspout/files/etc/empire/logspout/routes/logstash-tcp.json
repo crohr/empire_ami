@@ -1,0 +1,4 @@
+{
+  "adapter": "tcp",
+  "address": "logstash.empire:6379"
+}
